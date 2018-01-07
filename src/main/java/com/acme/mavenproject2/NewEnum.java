@@ -11,5 +11,6 @@ package com.acme.mavenproject2;
  */
 public enum NewEnum {
     enum1,
-    enum2
+    enum2,
+    enum3
 }
