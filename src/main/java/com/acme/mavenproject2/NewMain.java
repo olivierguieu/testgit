@@ -18,6 +18,7 @@ public class NewMain {
         // TODO code application logic here
         System.out.println("initial commit");
         System.out.println("added code");
+        System.out.println("feature1");
     }
     
 }
